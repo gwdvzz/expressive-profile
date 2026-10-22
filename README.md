@@ -6,8 +6,6 @@ Generator of GitHub profile READMEs in the Material 3 Expressive style. The prof
   <a href="https://gwdvzz.github.io/expressive-profile/"><b>Open the generator</b></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/gwdvzz">Live example</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/marketplace/actions/expressive-profile">GitHub Marketplace</a>
 </p>
 
 <p align="center"><a href="https://github.com/gwdvzz/expressive-profile/stargazers"><picture><source media="(prefers-color-scheme: dark)" srcset="docs/star-badge-dark.svg"><img src="docs/star-badge-light.svg" width="640" alt="Star Expressive Profile on GitHub"></picture></a></p>
