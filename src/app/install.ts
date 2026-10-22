@@ -1,4 +1,4 @@
-const AUTH = "https://expressive-profile-auth.sepehr-zahede.workers.dev/";
+const AUTH = "https://expressive-profile-auth.sepehr-zahede.workers.dev/api";
 const API = "https://api.github.com";
 
 // Auth
