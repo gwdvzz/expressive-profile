@@ -72,8 +72,6 @@ Generator of GitHub profile READMEs in the Material 3 Expressive style. The prof
 2. Set up the blocks and press **Download**.
 3. **Install to GitHub** signs in with a GitHub code, creates the profile repository and uploads the files.
 
-https://github.com/user-attachments/assets/ad14524b-1529-4637-8612-7cb41c5eee35
-
 Manual setup: **Download archive** gives a ZIP for a public repository named exactly like the username. All files from it are uploaded to that repository, including the `.github` and `.profile` folders.
 
 Signing in uses the GitHub device flow with the `public_repo` and `workflow` scopes. The token stays in the browser tab and is used only for this upload. The sign-in proxy is open source, see [`proxy/`](proxy). If the repository already has a README, the generator asks before replacing it.
