@@ -51,12 +51,18 @@ Generator of GitHub profile READMEs in the Material 3 Expressive style. The prof
     <td align="center">Project cards from pinned or chosen repositories</td>
   </tr>
   <tr>
-    <td width="50%"><img src="docs/Activity.png" alt="Activity and streak"></td>
-    <td width="50%"><img src="docs/About.png" alt="About"></td>
+    <td width="50%"><img src="docs/activity.png" alt="Activity and streak"></td>
+    <td width="50%"><img src="docs/setup.png" alt="Profile setup"></td>
   </tr>
   <tr>
     <td align="center">Activity, streak and link buttons</td>
+    <td align="center">Install to GitHub or download an archive</td>
   </tr>
+  <tr>
+    <td colspan="2"><img src="docs/remix.png" alt="Make one like this page"></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">The "Made with Expressive Profile" link under a profile opens a page with its setup</td>
   </tr>
 </table>
 
