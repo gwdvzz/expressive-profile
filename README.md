@@ -37,7 +37,7 @@ Generator of GitHub profile READMEs in the Material 3 Expressive style. The prof
 
 <table>
   <tr>
-    <td colspan="2"><img src="docs/editor.png" alt="Editor with the header settings open"></td>
+    <td colspan="2"><img src="docs/Editor.png" alt="Editor with the header settings open"></td>
   </tr>
   <tr>
     <td colspan="2" align="center">Editor: live preview, editing by click, drag to reorder</td>
