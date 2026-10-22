@@ -52,7 +52,7 @@ Generator of GitHub profile READMEs in the Material 3 Expressive style. The prof
   </tr>
   <tr>
     <td width="50%"><img src="docs/Activity.png" alt="Activity and streak"></td>
-    <td width="50%"><img src="docs/Setup.png" alt="Profile setup"></td>
+    <td width="50%"><img src="docs/About.png" alt="About"></td>
   </tr>
   <tr>
     <td align="center">Activity, streak and link buttons</td>
