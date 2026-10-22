@@ -138,15 +138,3 @@ npm run dev
 `npm run build` builds the site into `dist` and the Action renderer into `action/render.mjs`.
 
 The `proxy` folder contains the sign-in proxy deployed on Vercel. It forwards two device flow requests to GitHub and stores nothing.
-
-## License
-
-The code is under the [MIT License](LICENSE).
-
-- Google Sans Flex and Roboto Flex: SIL Open Font License, see `fonts/`.
-- Material Symbols: Apache License 2.0.
-- Simple Icons: CC0 1.0. Brand icons belong to their owners.
-
-## Credits
-
-This project is a modified fork of [Expressive Profile](https://github.com/metawka/expressive-profile) by [metawka](https://github.com/metawka), used under the MIT License.
