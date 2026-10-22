@@ -114,7 +114,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: gwdvzz/expressive-profile@v1
+      - uses: gwdvzz/expressive-profile@v1.0.0
         with:
           token: ${{ secrets.PROFILE_TOKEN || github.token }}
 ```
